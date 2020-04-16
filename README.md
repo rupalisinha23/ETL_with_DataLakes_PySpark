@@ -16,7 +16,7 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 ## Data Modelling
 For the project, <a href="https://en.wikipedia.org/wiki/Star_schema"><b>Star Schema</b></a> is created as shown in the image.
-![fact and dimension tables](img/table.png)
+![fact and dimension tables](img/tables.png)
 
 ## Getting Started
 ### Pre-requisites
